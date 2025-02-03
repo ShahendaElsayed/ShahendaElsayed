@@ -3,7 +3,7 @@
 
 🔹Software Engineer| MERN Stack Developer | Cloud Enthusiast </h2>  
 
-📍 Cairo, Egypt | 🎓 CS  senior Student @ German University in Cairo 
+📍 Cairo, Egypt | 🎓 CS  Senior Student @ German University in Cairo 
 
 <h1>💻 About Me</h1>
 
