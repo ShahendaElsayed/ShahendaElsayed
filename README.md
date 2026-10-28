@@ -1,7 +1,7 @@
 
 <h2>👋 Hi, I'm Shahenda ElSayed!
 
-🔹Software Engineer| MERN Stack Developer | Cloud Enthusiast </h2>  
+🔹Software Engineer| MERN Stack Developer </h2>  
 
 📍 Cairo, Egypt | 🎓 CS  Senior Student @ German University in Cairo 
 
